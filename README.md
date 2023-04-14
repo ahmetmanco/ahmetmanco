@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📫 How to reach me
-- <a style="color=red;" href="https://www.linkedin.com/in/ouzymz/" rel="nofollow"><p style="color:red;"> https://www.linkedin.com/in/ouzymz/</p></a>
+- <a style="color=red;" href="https://www.linkedin.com/in/ouzymz/" rel="nofollow"><p style="color:red;"> https://www.linkedin.com/in/ahmetmanco/</p></a>
 - <a style="color=red;" href = "mailto: ahmetmanco07@gmail.com">ahmetmanco07@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
