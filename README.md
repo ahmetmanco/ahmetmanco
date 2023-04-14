@@ -1,5 +1,5 @@
 ### Hi, I'm @ahmetmanco 👋
-![](https://komarev.com/ghpvc/?username=ahmetmanco&color=blue) 
+
 
 <!--
 **ahmetmanco/ahmetmanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
