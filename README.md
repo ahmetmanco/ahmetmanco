@@ -1,11 +1,11 @@
-### Hi, I'm @ahmetmanco 👋
+### Merhaba, ben @ahmetmanco 👋
 
 
 <!--
 **ahmetmanco/ahmetmanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ## 📫 How to reach me
-- <a style="color=red;" target="blank" href="https://www.linkedin.com/in/ouzymz/" rel="nofollow"><p style="color:red;"> https://www.linkedin.com/in/ahmetmanco/</p></a>
+- <a style="color=red;" target="_blank" href="https://www.linkedin.com/in/ahmetmanco/" rel="nofollow"><p style="color:red;"> https://www.linkedin.com/in/ahmetmanco/</p></a>
 - <a style="color=red;" href = "mailto: ahmetmanco07@gmail.com">ahmetmanco07@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
