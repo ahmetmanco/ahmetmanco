@@ -25,6 +25,3 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetmanco&theme=tokyonight)](https://github.com/ahmetmanco/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmetmanco&theme=tokyonight)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=ahmetmanco&color=blue)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetmanco&theme=tokyonight)](https://github.com/ahmetmanco/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmetmanco&theme=tokyonight)](https://git.io/streak-stats)
