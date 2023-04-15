@@ -1,4 +1,4 @@
-### Merhaba, ben @ahmetmanco 👋
+### Merhaba, ben Ahmet Gündüz 👋
 
 
 <!--
