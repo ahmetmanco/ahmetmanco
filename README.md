@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📫 Bana ulaşmak için
-- <a style="color=red;" target="_Blank" href="https://www.linkedin.com/in/ahmetmanco/" rel="nofollow"><p style="color:red;"> https://www.linkedin.com/in/ahmetmanco/</p></a>
+- <a style="color=red;" target="_Blank" href="https://www.linkedin.com/in/ahmetmanco/" rel="nofollow"><p style="color:red;"> https://www.linkedin.com/in/ahmet13/</p></a>
 - <a style="color=red;" href = "mailto: emekliogretmen13@gmail.com">emekliogretmen13@gmail.com</a>
 
 <h3 align="left">Languages and Tools:</h3>
